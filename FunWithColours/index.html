@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Fun With Colours</title>
+    <meta charset="utf-8" />
+
+    <!--CSS style sheets-->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css" />
+    <link href="css/styles.css" rel="stylesheet" />
+
+    <!--Java Scripts-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#ColoursTable').dataTable();
+        });
+    </script>
+
+</head>
+<body>
+    <h1>Fun With Colours</h1>
+
+    <script>
+        //Open XML file by sending a XML HTTP request (object)
+        xml = new XMLHttpRequest();
+
+        //Get file data and wait until the operation is complete, false attribute
+        xml.open("GET", "data/HTMLColours.xml", false);
+        xml.send();
+
+       //Put data into object
+        xmlDoc = xml.responseXML;
+
+        document.writeln("<h2>HTML Colours Table</h2>");
+
+        var x = xmlDoc.getElementsByTagName("Colour");
+        document.writeln("<p>Numbers of Colours" + x.length + "</p>");
+
+        //Create table and fill with colour ID, colour name and colour code
+        document.write("<table id='ColoursTable' border='2'>");
+
+        //Table header
+        document.write("<thead>");
+        document.write("<tr><th>ID</th><th>Group</th><th>Name</th><th>Code</th></tr>");
+        document.write("</thead>");
+
+        //Table body
+        document.write("<tbody>");
+        for (i = 0; i < x.length; i++) {
+            colourCodeString = x[i].getElementsByTagName("ColourCode")[0].childNodes[0].nodeValue;
+            colourCode = colourCodeString.replace(/\s+/g, '');
+
+            document.write("<tr style='color:#"+colourCode+"';><td>");
+            document.write(x[i].getElementsByTagName("ColourID")[0].childNodes[0].nodeValue);
+            document.write("</td><td>");
+            document.write(x[i].getElementsByTagName("ColourGroup")[0].childNodes[0].nodeValue);
+            document.write("</td><td>");
+            document.write(x[i].getElementsByTagName("ColourName")[0].childNodes[0].nodeValue);
+            document.write("</td><td>");
+            document.write(colourCode);
+            document.write("</td></tr>");
+        }
+        document.write("<tbody>");
+
+        document.write("</table>");
+    </script>
+
+</body>
+</html>

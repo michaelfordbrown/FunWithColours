@@ -1,0 +1,843 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HTMLColours>
+  <Colour>
+    <ColourID>	101	</ColourID>
+    <ColourGroup>	Black	</ColourGroup>
+    <ColourName>	Black	</ColourName>
+    <ColourCode>	00 00 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	102	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	Blue	</ColourName>
+    <ColourCode>	00 00 FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	103	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	CornflowerBlue	</ColourName>
+    <ColourCode>	64 95 ED	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	104	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	DarkBlue	</ColourName>
+    <ColourCode>	00 00 8B	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	105	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	DeepSkyBlue	</ColourName>
+    <ColourCode>	00 BF FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	106	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	DodgerBlue	</ColourName>
+    <ColourCode>	1E 90 FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	107	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	LightBlue	</ColourName>
+    <ColourCode>	AD D8 E6	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	108	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	LightSkyBlue	</ColourName>
+    <ColourCode>	87 CE FA	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	109	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	LightSteelBlue	</ColourName>
+    <ColourCode>	B0 C4 DE	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	110	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	MediumBlue	</ColourName>
+    <ColourCode>	00 00 CD	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	111	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	MidnightBlue	</ColourName>
+    <ColourCode>	19 19 70	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	112	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	Navy	</ColourName>
+    <ColourCode>	00 00 80	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	113	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	PowderBlue	</ColourName>
+    <ColourCode>	B0 E0 E6	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	114	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	RoyalBlue	</ColourName>
+    <ColourCode>	41 69 E1	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	115	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	SkyBlue	</ColourName>
+    <ColourCode>	87 CE EB	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	116	</ColourID>
+    <ColourGroup>	Blue	</ColourGroup>
+    <ColourName>	SteelBlue	</ColourName>
+    <ColourCode>	46 82 B4	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	117	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Bisque	</ColourName>
+    <ColourCode>	FF E4 C4	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	118	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	BlanchedAlmond	</ColourName>
+    <ColourCode>	FF EB CD	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	119	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Brown	</ColourName>
+    <ColourCode>	A5 2A 2A	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	120	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	BurlyWood	</ColourName>
+    <ColourCode>	DE B8 87	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	121	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Chocolate	</ColourName>
+    <ColourCode>	D2 69 1E	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	122	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Cornsilk	</ColourName>
+    <ColourCode>	FF F8 DC	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	123	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	DarkGoldenrod	</ColourName>
+    <ColourCode>	B8 86 0B	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	124	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Goldenrod	</ColourName>
+    <ColourCode>	DA A5 20	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	125	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Maroon	</ColourName>
+    <ColourCode>	80 00 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	126	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	NavajoWhite	</ColourName>
+    <ColourCode>	FF DE AD	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	127	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Peru	</ColourName>
+    <ColourCode>	CD 85 3F	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	128	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	RosyBrown	</ColourName>
+    <ColourCode>	BC 8F 8F	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	129	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	SaddleBrown	</ColourName>
+    <ColourCode>	8B 45 13	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	130	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	SandyBrown	</ColourName>
+    <ColourCode>	F4 A4 60	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	131	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Sienna	</ColourName>
+    <ColourCode>	A0 52 2D	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	132	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Tan	</ColourName>
+    <ColourCode>	D2 B4 8C	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	133	</ColourID>
+    <ColourGroup>	Brown	</ColourGroup>
+    <ColourName>	Wheat	</ColourName>
+    <ColourCode>	F5 DE B3	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	134	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	Aqua	</ColourName>
+    <ColourCode>	00 FF FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	135	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	Aquamarine	</ColourName>
+    <ColourCode>	7F FF D4	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	136	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	CadetBlue	</ColourName>
+    <ColourCode>	5F 9E A0	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	137	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	Cyan	</ColourName>
+    <ColourCode>	00 FF FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	138	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	DarkCyan	</ColourName>
+    <ColourCode>	00 8B 8B	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	139	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	DarkTurquoise	</ColourName>
+    <ColourCode>	00 CE D1	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	140	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	LightCyan	</ColourName>
+    <ColourCode>	E0 FF FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	141	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	LightSeaGreen	</ColourName>
+    <ColourCode>	20 B2 AA	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	142	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	MediumTurquoise	</ColourName>
+    <ColourCode>	48 D1 CC	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	143	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	PaleTurquoise	</ColourName>
+    <ColourCode>	AF EE EE	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	144	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	Teal	</ColourName>
+    <ColourCode>	00 80 80	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	145	</ColourID>
+    <ColourGroup>	Cyan	</ColourGroup>
+    <ColourName>	Turquoise	</ColourName>
+    <ColourCode>	40 E0 D0	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	146	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	DarkGray	</ColourName>
+    <ColourCode>	A9 A9 A9	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	147	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	DarkSlateGray	</ColourName>
+    <ColourCode>	2F 4F 4F	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	148	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	DimGray	</ColourName>
+    <ColourCode>	69 69 69	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	149	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	Gainsboro	</ColourName>
+    <ColourCode>	DC DC DC	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	150	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	Gray	</ColourName>
+    <ColourCode>	80 80 80	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	151	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	LightGray	</ColourName>
+    <ColourCode>	D3 D3 D3	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	152	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	LightSlateGray	</ColourName>
+    <ColourCode>	77 88 99	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	153	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	Silver	</ColourName>
+    <ColourCode>	C0 C0 C0	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	154	</ColourID>
+    <ColourGroup>	Gray	</ColourGroup>
+    <ColourName>	SlateGray	</ColourName>
+    <ColourCode>	70 80 90	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	155	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	Chartreuse	</ColourName>
+    <ColourCode>	7F FF 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	156	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	DarkGreen	</ColourName>
+    <ColourCode>	00 64 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	157	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	DarkOliveGreen	</ColourName>
+    <ColourCode>	55 6B 2F	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	158	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	DarkSeaGreen	</ColourName>
+    <ColourCode>	8F BC 8F	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	159	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	ForestGreen	</ColourName>
+    <ColourCode>	22 8B 22	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	160	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	Green	</ColourName>
+    <ColourCode>	00 80 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	161	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	GreenYellow	</ColourName>
+    <ColourCode>	AD FF 2F	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	162	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	LawnGreen	</ColourName>
+    <ColourCode>	7C FC 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	163	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	LightGreen	</ColourName>
+    <ColourCode>	90 EE 90	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	164	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	Lime	</ColourName>
+    <ColourCode>	00 FF 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	165	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	LimeGreen	</ColourName>
+    <ColourCode>	32 CD 32	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	166	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	MediumAquamarine	</ColourName>
+    <ColourCode>	66 CD AA	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	167	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	MediumSeaGreen	</ColourName>
+    <ColourCode>	3C B3 71	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	168	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	MediumSpringGreen	</ColourName>
+    <ColourCode>	00 FA 9A	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	169	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	Olive	</ColourName>
+    <ColourCode>	80 80 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	170	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	OliveDrab	</ColourName>
+    <ColourCode>	6B 8E 23	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	171	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	PaleGreen	</ColourName>
+    <ColourCode>	98 FB 98	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	172	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	SeaGreen	</ColourName>
+    <ColourCode>	2E 8B 57	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	173	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	SpringGreen	</ColourName>
+    <ColourCode>	00 FF 7F	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	174	</ColourID>
+    <ColourGroup>	Green	</ColourGroup>
+    <ColourName>	YellowGreen	</ColourName>
+    <ColourCode>	9A CD 32	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	175	</ColourID>
+    <ColourGroup>	Orange	</ColourGroup>
+    <ColourName>	Coral	</ColourName>
+    <ColourCode>	FF 7F 50	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	176	</ColourID>
+    <ColourGroup>	Orange	</ColourGroup>
+    <ColourName>	DarkOrange	</ColourName>
+    <ColourCode>	FF 8C 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	177	</ColourID>
+    <ColourGroup>	Orange	</ColourGroup>
+    <ColourName>	Orange	</ColourName>
+    <ColourCode>	FF A5 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	178	</ColourID>
+    <ColourGroup>	Orange	</ColourGroup>
+    <ColourName>	OrangeRed	</ColourName>
+    <ColourCode>	FF 45 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	179	</ColourID>
+    <ColourGroup>	Orange	</ColourGroup>
+    <ColourName>	Tomato	</ColourName>
+    <ColourCode>	FF 63 47	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	180	</ColourID>
+    <ColourGroup>	Pink	</ColourGroup>
+    <ColourName>	DeepPink	</ColourName>
+    <ColourCode>	FF 14 93	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	181	</ColourID>
+    <ColourGroup>	Pink	</ColourGroup>
+    <ColourName>	HotPink	</ColourName>
+    <ColourCode>	FF 69 B4	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	182	</ColourID>
+    <ColourGroup>	Pink	</ColourGroup>
+    <ColourName>	LightPink	</ColourName>
+    <ColourCode>	FF B6 C1	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	183	</ColourID>
+    <ColourGroup>	Pink	</ColourGroup>
+    <ColourName>	MediumVioletRed	</ColourName>
+    <ColourCode>	C7 15 85	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	184	</ColourID>
+    <ColourGroup>	Pink	</ColourGroup>
+    <ColourName>	PaleVioletRed	</ColourName>
+    <ColourCode>	DB 70 93	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	185	</ColourID>
+    <ColourGroup>	Pink	</ColourGroup>
+    <ColourName>	Pink	</ColourName>
+    <ColourCode>	FF C0 CB	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	186	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	BlueViolet	</ColourName>
+    <ColourCode>	8A 2B E2	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	187	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	DarkMagenta	</ColourName>
+    <ColourCode>	8B 00 8B	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	188	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	DarkOrchid	</ColourName>
+    <ColourCode>	99 32 CC	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	189	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	DarkSlateBlue	</ColourName>
+    <ColourCode>	48 3D 8B	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	190	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	DarkViolet	</ColourName>
+    <ColourCode>	94 00 D3	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	191	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Fuchsia	</ColourName>
+    <ColourCode>	FF 00 FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	192	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Indigo	</ColourName>
+    <ColourCode>	4B 00 82	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	193	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Lavender	</ColourName>
+    <ColourCode>	E6 E6 FA	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	194	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Magenta	</ColourName>
+    <ColourCode>	FF 00 FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	195	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	MediumOrchid	</ColourName>
+    <ColourCode>	BA 55 D3	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	196	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	MediumPurple	</ColourName>
+    <ColourCode>	93 70 DB	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	197	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	MediumSlateBlue	</ColourName>
+    <ColourCode>	7B 68 EE	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	198	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Orchid	</ColourName>
+    <ColourCode>	DA 70 D6	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	199	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Plum	</ColourName>
+    <ColourCode>	DD A0 DD	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	200	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Purple	</ColourName>
+    <ColourCode>	80 00 80	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	201	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	SlateBlue	</ColourName>
+    <ColourCode>	6A 5A CD	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	202	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Thistle	</ColourName>
+    <ColourCode>	D8 BF D8	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	203	</ColourID>
+    <ColourGroup>	Purple	</ColourGroup>
+    <ColourName>	Violet	</ColourName>
+    <ColourCode>	EE 82 EE	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	204	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	Crimson	</ColourName>
+    <ColourCode>	DC 14 3C	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	205	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	DarkRed	</ColourName>
+    <ColourCode>	8B 00 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	206	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	DarkSalmon	</ColourName>
+    <ColourCode>	E9 96 7A	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	207	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	FireBrick	</ColourName>
+    <ColourCode>	B2 22 22	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	208	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	IndianRed	</ColourName>
+    <ColourCode>	CD 5C 5C	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	209	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	LightCoral	</ColourName>
+    <ColourCode>	F0 80 80	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	210	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	LightSalmon	</ColourName>
+    <ColourCode>	FF A0 7A	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	211	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	Red	</ColourName>
+    <ColourCode>	FF 00 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	212	</ColourID>
+    <ColourGroup>	Red	</ColourGroup>
+    <ColourName>	Salmon	</ColourName>
+    <ColourCode>	FA 80 72	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	213	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	AliceBlue	</ColourName>
+    <ColourCode>	F0 F8 FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	214	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	AntiqueWhite	</ColourName>
+    <ColourCode>	FA EB D7	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	215	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	Azure	</ColourName>
+    <ColourCode>	F0 FF FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	216	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	Beige	</ColourName>
+    <ColourCode>	F5 F5 DC	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	217	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	FloralWhite	</ColourName>
+    <ColourCode>	FF FA F0	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	218	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	GhostWhite	</ColourName>
+    <ColourCode>	F8 F8 FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	219	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	Honeydew	</ColourName>
+    <ColourCode>	F0 FF F0	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	220	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	Ivory	</ColourName>
+    <ColourCode>	FF FF F0	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	221	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	LavenderBlush	</ColourName>
+    <ColourCode>	FF F0 F5	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	222	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	Linen	</ColourName>
+    <ColourCode>	FA F0 E6	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	223	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	MintCream	</ColourName>
+    <ColourCode>	F5 FF FA	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	224	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	MistyRose	</ColourName>
+    <ColourCode>	FF E4 E1	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	225	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	OldLace	</ColourName>
+    <ColourCode>	FD F5 E6	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	226	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	Seashell	</ColourName>
+    <ColourCode>	FF F5 EE	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	227	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	Snow	</ColourName>
+    <ColourCode>	FF FA FA	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	228	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	White	</ColourName>
+    <ColourCode>	FF FF FF	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	229	</ColourID>
+    <ColourGroup>	White	</ColourGroup>
+    <ColourName>	WhiteSmoke	</ColourName>
+    <ColourCode>	F5 F5 F5	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	230	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	DarkKhaki	</ColourName>
+    <ColourCode>	BD B7 6B	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	231	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	Gold	</ColourName>
+    <ColourCode>	FF D7 00	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	232	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	Khaki	</ColourName>
+    <ColourCode>	F0 E6 8C	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	233	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	LemonChiffon	</ColourName>
+    <ColourCode>	FF FA CD	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	234	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	LightGoldenrodYellow	</ColourName>
+    <ColourCode>	FA FA D2	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	235	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	LightYellow	</ColourName>
+    <ColourCode>	FF FF E0	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	236	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	Moccasin	</ColourName>
+    <ColourCode>	FF E4 B5	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	237	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	PaleGoldenrod	</ColourName>
+    <ColourCode>	EE E8 AA	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	238	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	PapayaWhip	</ColourName>
+    <ColourCode>	FF EF D5	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	239	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	PeachPuff	</ColourName>
+    <ColourCode>	FF DA B9	</ColourCode>
+  </Colour>
+  <Colour>
+    <ColourID>	240	</ColourID>
+    <ColourGroup>	Yellow	</ColourGroup>
+    <ColourName>	Yellow	</ColourName>
+    <ColourCode>	FF FF 00	</ColourCode>
+  </Colour>
+</HTMLColours>
