@@ -1,0 +1,65 @@
+﻿body {
+}
+
+.square{
+    width: 250px;
+    height: 250px;
+    margin: 1rem 0 2rem 1rem;
+    background-color: blue;
+    position: relative;
+}
+
+/* Blue to Green*/
+#colour .square{
+    transition-duration: 5s;
+}
+
+#colour .square:hover {
+    background-color:green;
+}
+
+/* Square to Circle */
+#circle .square {
+        transition-duration: 5s;
+}
+
+#circle .square:hover {
+    border-radius: 50%;
+    background-color: purple;
+}
+
+/* The skew() method */
+#skew .square {
+    background-color: purple;
+    transition: transform 5s;
+}
+
+#skew .square:hover {
+    transform: skewX(-20deg);
+}
+
+/* The scale() method */
+#scale .square div{
+    background: #000;
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    width: 75px;
+    height: 75px;
+    transition: transform 5s, background-color 2s 1s;
+}
+
+#scale .square div:hover {
+    background-color: blue;
+    transform: scale(2,2);
+}
+
+/* The rotate() method */
+#rotate .square {
+    background-color: tomato;
+    transition: transform 5s;
+}
+
+#rotate .square:hover {
+    transform: rotate(360deg);
+}
